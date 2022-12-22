@@ -2,3 +2,4 @@ This is sample3.txt file.
 New changes
 Some more changes
 hello world
+updated from git hub.
