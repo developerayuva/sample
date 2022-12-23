@@ -1,3 +1,2 @@
-This is a sample1 file. 
-New edit from git hub.
-New update unstaged
+This is a sample1 files. 
+New edit from Git hub.
